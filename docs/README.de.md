@@ -7,7 +7,7 @@
 weclapp MCP Server gibt Claude, ChatGPT, Copilot und Cursor 11 Tools für weclapp: kunden, Aufträge, Rechnungen, Artikel, Angebote und Verkaufschancen. Alle Tools lesen nur. Es läuft auf AnythingMCP: mit einem Klick in AnythingMCP Cloud oder selbst gehostet mit Docker. Zugangsdaten werden verschlüsselt gespeichert, jeder Aufruf landet im Audit-Log.
 
 **Zuletzt geprüft:** 2026-09-26 gegen die weclapp REST-API v2 (Produktivbetrieb auf AnythingMCP Cloud: mehr als 1.000 erfolgreiche Tool-Aufrufe in den letzten 90 Tagen).  
-**Adapter synchronisiert:** <!-- synced -->2026-09-26
+**Adapter synchronisiert:** <!-- synced -->2026-10-09
 
 Maintained by [KOCH Freiburg GmbH](https://www.kochfreiburg.de/), which runs AnythingMCP in production. Built on [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp) by helpcode.ai.
 
